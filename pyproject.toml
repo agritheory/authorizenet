@@ -7,7 +7,7 @@ license = "SDK LICENSE AGREEMENT"
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = ">3.10"
+python = ">=3.7"
 pyxb-x = "^1.2.6.1"
 lxml = "^4.9.3"
 requests = "^2.31.0"
